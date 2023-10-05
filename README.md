@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm abdallah nasser</h1>
 <h3 align="center">Hi 👋! My name is abdallah nasser and I'm a frontend development, from egypt</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdalla7nasser&label=Profile%20views&color=0e75b6&style=flat" alt="abdalla7nasser" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abdalla91463040" target="blank"><img src="https://img.shields.io/twitter/follow/abdalla91463040?logo=twitter&style=for-the-badge" alt="abdalla91463040" /></a> </p>
@@ -19,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abdalla91463040" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdalla91463040" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/abdallah-nasser-89613a1a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdallah-nasser-89613a1a5/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdallah-nasser-89613a1a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdallah-nasser-89613a1a5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
